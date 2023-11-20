@@ -217,5 +217,5 @@ let
     image;
 in
 {
-  inherit buildTOS buildOpteeTaDevKit opteeClient buildTOS;
+  inherit buildTOS buildOpteeTaDevKit opteeClient buildNvLuksSrv;
 }
